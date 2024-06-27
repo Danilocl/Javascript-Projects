@@ -10,9 +10,9 @@ body {
 
 .container {
     position: relative;
-    width: 40% !important;
+    width: 20% !important;
     max-width: 400px;
-    min-width: 300px;
+    min-width: 400px;
     background-color: white;
     text-align: center;
     padding: 28px 32px;
