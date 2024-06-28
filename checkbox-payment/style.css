@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    background: rgb(233, 182, 115);
+}
+
+.container {
+    position: relative;
+    background: white;
+    border-radius: 5px;
+    min-width: 200px;
+    min-height: 250px;
+    align-items: baseline;
+    width: 12%;
+    height: 12vh;
+
+}
+
+.payOptions {
+    margin-top: 5%;
+    font-size: 1rem;
+    font-family: Verdana;
+    text-transform: uppercase;
+}
+
+.subscribe {
+    text-transform: uppercase;
+    font-size: 1rem;
+    margin-top: 18%;
+    font-weight: bold;
+}
+
+#submit {
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    margin-top: -5%;
+    cursor: pointer;
+}
+
+#submit:hover {
+background: rgb(212, 210, 210);
+}
