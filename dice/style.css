@@ -1,0 +1,39 @@
+body {
+    background: rgb(165, 117, 117);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 70vh;
+}
+
+
+.container {
+    position: relative;
+    width: 20%;
+    max-width: 400px;
+    border-radius: 18px;
+    align-items: center;
+    text-align: center;
+    background: white;
+    padding: 28px 32px;
+}
+
+.container img {
+    width: 60%;
+    padding-bottom: 20px;
+}
+
+#button {
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana;
+    border-radius: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+#button:hover {
+    background: rgb(223, 223, 223);
+}
+
