@@ -1,1 +1,1 @@
-![image](https://github.com/Danilocl/Javascript-Projects/assets/22922904/9b311844-4b67-45b1-9835-b06fb956481e)
+![counter](https://github.com/Danilocl/Javascript-Projects/assets/22922904/94d1cae3-26c7-4b4e-8cd6-924140e00f49)
