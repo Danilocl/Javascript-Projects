@@ -31,7 +31,7 @@ function isSwap() {
     if (!cTof) {
         cTof = true
         topText.textContent = "Celsius to Fahrenheit (ºC to ºF) conversion calculator"
-        borderText.textContent = "Celsius to Fahrenheit (Swap Units)"
+        borderText.textContent = "Fahrenheit to Celsius (Swap Units)"
         input.placeholder = "°C";
         if (!isNaN(c)) {
             input.value = c.toFixed();
@@ -42,7 +42,7 @@ function isSwap() {
     } else {
         cTof = false
         topText.textContent = "Fahrenheit to Celsius (°F to °C) conversion calculator"
-        borderText.textContent = "Fahrenheit to Celsius (Swap Units)"
+        borderText.textContent = "Celsius to Fahrenheit (Swap Units)"
         input.placeholder = "°F";
         if (!isNaN(f)) {
             input.value = f.toFixed();
