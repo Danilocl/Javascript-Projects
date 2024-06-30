@@ -40,3 +40,5 @@ decrease.addEventListener('mouseup', stopInterval)
 decrease.addEventListener('mouseleave', stopInterval)
 
 
+
+

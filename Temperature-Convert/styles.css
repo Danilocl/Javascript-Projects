@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    background: wheat;
+}
+
+.container {
+    position: relative;
+    width: 500px;
+
+    height: 105px;
+    background: #fff;
+    padding: 28px 32px;
+    border-radius: 18px;
+}
+
+#topText {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#borderText {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#myInput {
+    display: flex;
+    width: 100%;
+    height: min-content;
+    align-items: center;
+    color: #06283D;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container i {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+.result p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
