@@ -8,6 +8,7 @@ let result;
 let f;
 let c;
 
+
 function convert() {
     let value = Number(input.value)
 
